@@ -6,7 +6,7 @@ A very lightweight package to get list of all possible words that might have bee
 
 [![NPM Version](https://img.shields.io/npm/v/mistyped?style=flat-square)](https://www.npmjs.com/package/mistyped)
 [![NPM Downloads](https://img.shields.io/npm/dm/mistyped?style=flat-square&logo=npm)](https://npmcharts.com/compare/mistyped?minimal=true)
-[![PayPal](https://img.shields.io/badge/ -Donate-blue?logo=paypal)](https://paypal.me/abkhare9/5usd)
+[![PayPal](https://img.shields.io/badge/-Donate-blue?logo=paypal)](https://paypal.me/abkhare9/5usd)
 
 ## Installation
 Using npm:
