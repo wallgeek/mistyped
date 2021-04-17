@@ -1,0 +1,24 @@
+{
+  "name": "mistyped",
+  "version": "1.0.0",
+  "description": "Get list of all possible words that might have been mistyped",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallgeek/autocorrect.git"
+  },
+  "keywords": [
+    "autocorrect",
+    "mistyped",
+    "misspelled"
+  ],
+  "author": "Abhishek Khare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wallgeek/autocorrect/issues"
+  },
+  "homepage": "https://github.com/wallgeek/autocorrect#readme"
+}
